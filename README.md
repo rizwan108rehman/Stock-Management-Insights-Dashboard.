@@ -1,4 +1,4 @@
-Stock Management Insights Dashboard
+# Stock Management Insights Dashboard
 This repository contains the Stock Management Insights Dashboard, created using Tableau to provide valuable insights into stock levels, sales performance, stock-out risks, and bundling opportunities. The dashboard is designed to help businesses analyze stock management and optimize their product offerings.
 
 Key Features:
